@@ -1,0 +1,6 @@
+{
+  "name": "Maths Made Practical Landing Page",
+  "description": "A high-converting, mobile-responsive landing page for the 'Maths Made Practical' online workshop for Class 7th-10th students with integrated registration and Razorpay-themed checkout simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
